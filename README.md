@@ -1,4 +1,3 @@
-# eotix-cocaine
 # [ESX] Cocaine Mission 
 # Да има тука да си гризнете
 
