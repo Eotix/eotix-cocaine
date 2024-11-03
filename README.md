@@ -1,6 +1,6 @@
 # [ESX] Cocaine Mission 
 # Да има тука да си гризнете
-
+Скрипта е ESX но няма да ви е трудно да го конвъртнете за вашия framework (Ако не ме домързи ще кача и QB версия :) )
 ## Dependencies:
 - [nh-context](https://github.com/nighmares/nh-context)
 - [cd_drawtextui](https://github.com/dsheedes/cd_drawtextui)
